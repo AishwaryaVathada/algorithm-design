@@ -28,9 +28,9 @@ To reach a specific intermediate configuration using the **minimum number of mov
 
 A → C → B → A → C → ...
 
----
-
 - On **even-numbered moves**, move the **only possible legal disk** that isn't disk 1.
+
+---
 
 #### Example (3 disks):
 Initial state: All disks on peg A
@@ -54,7 +54,7 @@ D1: B → A
 
 ---
 
-### 🔍 Your Task
+### Your Task
 
 Given a final state of `n` disks across pegs A, B, and C (with sizes increasing from top to bottom), write a program to:
 
@@ -64,7 +64,7 @@ Given a final state of `n` disks across pegs A, B, and C (with sizes increasing 
 
 ---
 
-### 📥 Input Format
+### Input Format
 
 - The first line contains an integer `T` – the number of test cases
 - Each of the next `T` lines describes the state of the three pegs:
@@ -73,7 +73,7 @@ Each peg has disk numbers in ascending order (top to bottom), separated by space
 PegA, PegB, PegC
 ---
 
-### 📤 Output Format
+### Output Format
 
 For each test case, output:
 <InitialPeg> <MoveCount>
@@ -84,7 +84,7 @@ Impossible
 
 ---
 
-### 🧠 Constraints
+### Constraints
 
 - Number of disks: `3 ≤ n ≤ 64`
 - Valid number of moves: `0 ≤ moves ≤ 2^n - 2`
