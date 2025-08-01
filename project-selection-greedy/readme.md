@@ -9,10 +9,7 @@ As the **chief project manager**, your job is to **select up to `k` projects** f
   - a **revenue** `rᵢ`
 - You can **only select a project** if your current capital `C` is **greater than or equal to `cᵢ`**
 - Once selected, the **profit** from project `i` is:
-
-profit = rᵢ - cᵢ
-
-and is added to your capital
+  profit = rᵢ - cᵢ and is added to your capital
 - The goal is to select projects in a way that **maximizes final capital** after exactly `k` selections
 
 ---
