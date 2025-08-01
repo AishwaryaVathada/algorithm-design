@@ -41,13 +41,12 @@ Each tree is defined by space-separated node definitions in the format:
 
 This represents a binary tree:
 
-
-  -1
- /  \
-1    -2
-    /
-   0
-
+    -1
+    / \
+   1   -2
+       /
+      0
+      
 ---
 
 ## Output Format
