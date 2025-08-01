@@ -55,8 +55,9 @@ This is a classic Dynamic Programming problem with the following characteristics
 
 ### Complexity
 Let n be the length of the sequence:
+
 Time complexity: O(n³) (due to checking palindromes and DP splits)
-Space complexity: O(n²)
-Efficient for n ≤ 500.
+
+Space complexity: O(n²); Efficient for n ≤ 500.
 
 ---
