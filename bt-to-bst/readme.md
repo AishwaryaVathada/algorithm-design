@@ -40,6 +40,8 @@ Each tree is defined by space-separated node definitions in the format:
 0:x:x -1:1:-2 -2:0:x 1:x:x
 
 This represents a binary tree:
+
+
   -1
  /  \
 1    -2
