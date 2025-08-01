@@ -42,8 +42,8 @@ For each test case, output a single integer representing the number of **valid g
 ## Sample Input
 
 2
-5 1 3
-6 2 4
+5  1  3
+6  2  4
 
 ### Sample Output
 
