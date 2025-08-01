@@ -24,12 +24,12 @@ Each problem has its own subfolder or script with:
 
 | # | Problem Title | Topic | Key Concepts |
 |---|---------------|-------|--------------|
-| 1 | **Power Modulo** (`A1Q1.py`) | Math / Recursion | Modular exponentiation, recursion |
-| 2 | **Tower of Hanoi State Tracing** (`A1Q2.py`) | Recursive Simulation | Move pattern, backtrace configuration |
+| 1 | **Power Modulo** | Math / Recursion | Modular exponentiation, recursion |
+| 2 | **Tower of Hanoi State Tracing** | Recursive Simulation | Move pattern, backtrace configuration |
 | 3 | **Binary Tree to BST** | Tree Transformations | In-order traversal, structure preservation |
 | 4 | **Greedy Project Maximization** | Heap Greedy | Profit tracking, capital simulation |
 | 5 | **Student Grouping with Twins** | DP & Combinatorics | Stirling numbers, restricted partitions |
-| 6 | **MRT Journey Time Optimization** (`A3Q3.py`) | Shortest Path (Graph) | Dijkstra, multimodal graphs |
+| 6 | **MRT Journey Time Optimization** | Shortest Path (Graph) | Dijkstra, multimodal graphs |
 | 7 | **Zuma Game Variant – Palindrome Elimination** | Dynamic Programming | Palindromic DP, minimum segmentation |
 | 8 | **Capital-Growth Project Timeline** | DP with Constraints | Monotonicity, group partitioning, budget management |
 
