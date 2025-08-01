@@ -43,10 +43,10 @@ This represents a binary tree:
 
     -1
     / \
-   1    -2 
-       /
-      0
-      
+    1    -2
+        /
+        0
+
 ---
 
 ## Output Format
